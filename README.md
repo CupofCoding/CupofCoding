@@ -1,6 +1,12 @@
-- 🐒 Hi, I’m Anne@CupofCoding
-- 🦦 I’m interested in ...becoming a full Stack developer. I'm aiming to become a web developer, business system analyst, or solutions analyst. 
-- 🌐 I’m currently learning ...front end development. 
+- 🐒 Hi, I’m anne@CupofCoding
+ I'm aiming to become an experienced developer, business system or solutions analyst. The design process has always been enjoyable for me. I prioritize quality of life and efficiency in order to come up with innovative solutions.
+ 
+I believe balance between functionality and aesthetics is necessary for a pleasant user experience.
+
+Self-taught programmer enrolled in a MERN fullstack bootcamp. Looking to further my career and gain industry experience.
+
+Portfolio: https://www.cupofcoding.com/
+
 - 💞️ I’m not looking to collaborate on anything at this time...
 - 📫 How to reach me ...via pm. 
 
